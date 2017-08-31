@@ -1,7 +1,7 @@
 /**
  * Created by Ahmad on 31/08/2017.
  */
-var myName = prompt('Please Enter Your Name To Animate it');
+var myName = prompt('Please Enter Your Name To Animate it أكتب اسمك');
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
