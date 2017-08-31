@@ -1,4 +1,3 @@
-/*** Created by Ahmad on 1/07/2017.*/
 function Vector(x, y, z) {
     this.x = x;
     this.y = y;
