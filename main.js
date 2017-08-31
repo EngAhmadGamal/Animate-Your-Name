@@ -1,7 +1,7 @@
 /**
  * Created by Ahmad on 1/07/2017.
  */
-var myName = prompt(' Please Enter Your Name || من فضلك أكتب اسمك ');
+var myName = prompt(' Please Enter Your Name || من فضلك أكتب اسمك بالإنجليزية ');
 document.write('<h3 align="center" style="color:red;">Move Your Mouse On The Name || حرك الماوس على اسمك</h3>');
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
