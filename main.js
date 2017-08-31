@@ -1,5 +1,5 @@
 /**
- * Created by Ahmad on 31/08/2017.
+ * Created by Ahmad on 1/07/2017.
  */
 var myName = prompt('Please Enter Your Name To Animate it أكتب اسمك');
 
